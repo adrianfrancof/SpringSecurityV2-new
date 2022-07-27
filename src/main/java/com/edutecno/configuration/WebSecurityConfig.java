@@ -91,12 +91,7 @@ public class WebSecurityConfig {
 
 	    return http.build();
 	}
-	
-//	@Bean
-//    WebSecurityCustomizer webSecurityCustomizer() {
-//        return (web) -> web.ignoring().antMatchers("/images/**", "/js/**", "/webjars/**");
-//    }
-	
+		
 	//metodo encargado de codificar la password
 	@Bean
 	BCryptPasswordEncoder passwordEncoder() {
