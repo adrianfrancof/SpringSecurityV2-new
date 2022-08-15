@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Spring Security
 
-_Spring Security_
+_Spring Security con usuarios en base de datos, password encoder, filtros de seguridad comparando el request_
 
 ## Comenzando 🚀
 
